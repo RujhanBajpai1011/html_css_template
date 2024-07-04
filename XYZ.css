@@ -1,0 +1,243 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+
+.eleven {
+    align-items: end;
+    width: 100px;
+    height: 30px;
+}
+
+.twelve {
+    padding-left: 40px;
+    height: 30px;
+    width: 1100px;
+
+}
+
+.divya {
+    display: flex;
+    margin-top: 0px;
+    width: 100%;
+}
+
+.Suchitra {
+    background-color: white;
+    width: 50%;
+    text-align: left;
+    padding: 40px;
+    height: 220px;
+}
+
+.rishika {
+    height: 220px;
+}
+
+.cse {
+    background-color: black;
+    color: white;
+    padding: 10px;
+    border-radius: 30px;
+    cursor: pointer;
+}
+
+.mechanical {
+    color: black;
+    padding: 20px;
+    border-color: grey;
+    cursor: pointer;
+    border-style: solid;
+    background-color: white;
+}
+
+.electrical {
+    background-color: white;
+    color: rgb(67, 200, 200);
+    ;
+    padding: 10px;
+    border-radius: 30px;
+    border: 5px;
+    cursor: pointer;
+}
+
+.ece {
+    background-color: white;
+    color: black;
+    border-color: rgb(67, 200, 200);
+    padding: 15px;
+    cursor: pointer;
+}
+
+.one {
+    padding: 60px;
+    text-align: center;
+    height: 120px;
+    background-color: black;
+    color: white;
+
+}
+
+.two {
+    padding: 60px;
+    text-align: center;
+    height: 120px;
+    background-color: rgb(37, 232, 232);
+    color: white;
+}
+
+.three {
+    padding: 60px;
+    text-align: center;
+    height: 120px;
+    background-color: rgb(67, 200, 200);
+    color: white;
+}
+
+h1 {
+    font-weight: 900;
+}
+
+em {
+    color: rgb(67, 200, 200);
+}
+
+.ishita {
+    padding: 10px;
+    border: none;
+    border-radius: 0;
+    background-color: whitesmoke;
+    color: black;
+}
+
+.five {
+    background-color: white;
+    text-align: center;
+    padding: 70px;
+}
+
+.shakuntala {
+    background-color: rgb(67, 200, 200);
+    color: white;
+    padding: 50px;
+    height: 300px;
+}
+
+.rupali {
+    background-color: white;
+    text-align: center;
+    padding: 40px;
+}
+
+.neelam {
+    text-align: center;
+    padding: 40px;
+    background-color: white;
+}
+
+a {
+    text-decoration: none;
+    color: white;
+    font-size: xx-large;
+}
+
+i {
+    background-color: rgb(67, 200, 200);
+    border-radius: 50%;
+    padding: 15px;
+}
+
+.anshika {
+    background-color: rgb(244, 242, 242);
+    padding: 50px;
+    width: 50%;
+    height: 305px;
+}
+
+.ex {
+    background-color: rgb(67, 200, 200);
+    color: white;
+    padding: 15px;
+    border-radius: 30px;
+    cursor: pointer;
+    border: none;
+}
+
+.priya {
+    background-color: rgb(67, 200, 200);
+    color: white;
+    padding: 50px;
+    margin: auto;
+    display: block;
+    width: 800px;
+    height: 80px;
+}
+
+.shweta {
+    background-color: rgb(67, 200, 200);
+    height: 130px;
+    width: 400px;
+    padding-top: 50px;
+}
+
+.forty {
+    background-color: white;
+    width: 300px;
+}
+
+.fifty {
+    background-color: white;
+    width: 300px;
+}
+
+.AIML {
+    background-color: white;
+    color: rgb(67, 200, 200);
+    padding: 10px;
+    border-radius: 30px;
+    border: 5px;
+    cursor: pointer;
+}
+
+#suhani {
+    background-color: white;
+    text-align: center;
+    padding: 50px;
+    height: 350px;
+}
+
+.suhani {
+    background-color: white;
+    text-align: center;
+    height: 50px;
+}
+.data{
+    background-color: black;
+    color: white;
+    padding-left: 20px;
+    padding-top: 3px;
+    padding-bottom: 3px;
+    padding-right: 20px;
+    cursor: pointer;
+}
+.footer{
+    text-align: center;
+    background-color: black;
+    color: white;
+    height: 50px;
+}
+.foote{
+    text-align: center;
+    background-color: black;
+    color: white;
+    height: 50px;
+}
+#sixty{
+    background-color: white;
+    color: black;
+    padding-bottom: 5px;
+}
+#seventy{
+    font-size: medium;
+}
